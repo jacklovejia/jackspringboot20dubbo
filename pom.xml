@@ -10,6 +10,7 @@
     <modules>
         <module>jack-dubbo-service-api</module>
         <module>jack-dubbo-service-api-impl</module>
+        <module>test</module>
     </modules>
     <packaging>pom</packaging>
     <parent>
