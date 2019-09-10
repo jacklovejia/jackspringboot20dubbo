@@ -1,0 +1,30 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/
+jack-dubbo-service-api-impl/jack-dubbo-service-accountservice-impl/jackdubboserviceaccountserviceimpl.iml
+jack-dubbo-service-api-impl/jack-dubbo-service-accountservice-impl/src/test/
+jack-dubbo-service-api-impl/jack-dubbo-service-accountservice-impl/target/
+jack-dubbo-service-api-impl/jack-dubbo-service-api-impl.iml
+jack-dubbo-service-api-impl/jack-dubbo-service-userservice-impl/jackdubboserviceuserserviceimpl.iml
+jack-dubbo-service-api-impl/jack-dubbo-service-userservice-impl/src/test/
+jack-dubbo-service-api-impl/jack-dubbo-service-userservice-impl/target/
+jack-dubbo-service-api-impl/target/
+jack-dubbo-service-api/jack-dubbo-accountservice-api/jackdubboaccountserviceapi.iml
+jack-dubbo-service-api/jack-dubbo-accountservice-api/src/main/resources/
+jack-dubbo-service-api/jack-dubbo-accountservice-api/src/test/
+jack-dubbo-service-api/jack-dubbo-accountservice-api/target/
+jack-dubbo-service-api/jack-dubbo-service-api.iml
+jack-dubbo-service-api/jack-dubbo-userservice-api/jack-dubbo-userservice-api.iml
+jack-dubbo-service-api/jack-dubbo-userservice-api/target/
+jack-springboot2.0-dubbo.iml
+test/src/test/
+test/target/
+test/test.iml
